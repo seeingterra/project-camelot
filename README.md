@@ -26,6 +26,10 @@ http://www.samsungdforum.com/Guide/art00013/index.html
 
 Instructions:
 
+0. Prerequisite: Latest build: 
+```url
+   https://github.com/seeingterra/project-camelot/releases
+```
 1. Set up /widgetlist.xml and /widget/ (directory) in your webserver root location.
 2. Put downloaded .zip into your "/widget/" folder
 3. Put the following in your widgetlist.xml:
