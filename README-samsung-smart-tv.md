@@ -5,14 +5,26 @@ Project Camelot open source repository
 
 To install release file for Samsung Smart TV:
 
+(Disclaimer: Visual design looks rather shitty and is incomplete, basic functionality is in place.
+ For full full functionality as video and audio playback (buggy) you will need a mouse connected to TV)
+ 
+ What is needed:
+ 
+ * UI Improvements
+ * Remote control improvements (access article content to play video, stream, etc)
+ * Radio (shoutcast) live player)
+ * Imprpoved UI framework for more functionality (like video library browsing, search, etc)
+
 Requirements:
 
-Smart TV SDK.
+Smart TV SDK (for development and deployment).
 
 Info and Guide:
 http://www.samsungdforum.com/Guide/art00013/index.html
 
 (Note: "<type>user</type>" are already incorporated into build for developer testing)
+
+Instructions:
 
 1. Set up /widgetlist.xml and /widget/ (directory) in your webserver root location.
 2. Put downloaded .zip into your "/widget/" folder
