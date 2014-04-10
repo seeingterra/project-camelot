@@ -42,7 +42,6 @@ Instructions:
   </widget>
   </list>
   </rsp>
-  [/CODE]
 ```
   
 4. On your Samsung Smart TV, login as: 'develop' . Enter no password and click login
