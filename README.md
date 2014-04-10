@@ -48,7 +48,7 @@ Instructions:
   </rsp>
 ```
   
-4. On your Samsung Smart TV, login as: 'develop' . Enter no password and click login
+4. On your Samsung Smart TV, login as: 'develop' .Do NOT enter any password, then logg in
   
 5. (if 2013 model or newer see below) 
   Follow instructions on this page: http://www.samsungdforum.com/Guide/art00013/index.html#Installing-an-Application
