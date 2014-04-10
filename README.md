@@ -30,6 +30,7 @@ Instructions:
 2. Put downloaded .zip into your "/widget/" folder
 3. Put the following in your widgetlist.xml:
 
+  
   <?xml version='1.0' encoding='UTF-8' standalone='no'?>
   <rsp stat='ok'>
   <list>
