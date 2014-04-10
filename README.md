@@ -30,7 +30,7 @@ Instructions:
 2. Put downloaded .zip into your "/widget/" folder
 3. Put the following in your widgetlist.xml:
 
-  [CODE]
+```html
   <?xml version='1.0' encoding='UTF-8' standalone='no'?>
   <rsp stat='ok'>
   <list>
@@ -43,6 +43,7 @@ Instructions:
   </list>
   </rsp>
   [/CODE]
+```
   
 4. On your Samsung Smart TV, login as: 'develop' . Enter no password and click login
   
