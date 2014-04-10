@@ -38,7 +38,7 @@ Instructions:
   <title>PC News</title>
   <compression size='815816' type='zip'/>
   <description>PC1</description>
-  <download>http://(your-server-ip)/Widget/PCnews_0.100_America.zip</download>
+  <download>http://(your-server-ip)/widget/PCnews_0.100_America.zip</download>
   </widget>
   </list>
   </rsp>
